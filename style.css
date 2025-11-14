@@ -1,0 +1,20 @@
+#game {
+  width: 300px;
+  margin: 60px auto;
+  padding: 20px;
+  background: #222;
+  color: white;
+  border-radius: 10px;
+  text-align: center;
+}
+
+button {
+  width: 100%;
+  margin: 5px 0;
+  padding: 10px;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  background: #444;
+  color: white;
+}
